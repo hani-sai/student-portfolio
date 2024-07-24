@@ -378,7 +378,7 @@ padding-top: 100px;
 .img-border{
    height:400px;
    width: 400px;
-   border: 20px solid rgba(0,0,0,0.07);
+   border: 20px solid ;
    margin: 0 auto;
    border-radius: 50%;
    
