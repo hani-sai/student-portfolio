@@ -321,7 +321,8 @@ padding-top: 100px;
   position: relative;
   margin: 5px 0;
   line-height: 90px;
-  -webkit-text-stroke: 1px #c98adb ;
+  color: #3a1452; 
+  -webkit-text-stroke: 0.1vw #c98adb ;
 }
 .dynamic-txts li span::after{
   content: "";
@@ -459,6 +460,8 @@ border-radius: 2px;
   position: relative;
   margin: 5px 0;
   line-height: 90px;
+   color: #3a1452; 
+  -webkit-text-stroke: 0.1vw #c98adb ;
 }
 .dynamic-txtss li span::after{
   content: "";
